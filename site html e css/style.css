@@ -1,0 +1,134 @@
+body {
+
+}
+
+header {
+	background: #BBBBBB;
+	padding: -20px;
+}
+
+.caixa{
+	position:  relative;
+	width:  940px;
+	margin:  0 auto;
+}
+
+nav{
+	display: block;
+	position:  absolute;
+	top:  160px;
+	right:  230px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight:  bold;
+	font-size:  22px;
+	text-decoration:  none;
+}
+
+.imagemsite {
+	margin-top: -120px;
+	margin-left: 20px;
+}
+
+nav a:hover{
+	color:  #C78C19;
+	text-decoration:  underline;
+}
+
+#banner{
+	width: 100%;
+
+}
+
+.principal {
+	background: #CCCCCC;
+	padding:  20px;
+
+}
+.titulo-principal {
+	margin-left: 160px;
+	text-align:  center;
+	padding-top: 50px;
+	position:  relative;
+	font-size: 90px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: -10px;
+	font-size: 30px;
+	color: darkred;
+
+}
+p {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens{
+	font-style: unset;
+	font-size: 25px;
+	display: inline;
+	margin: 10px;
+}
+
+.benefícios {
+	background: #b2b2b2;
+	padding:  50px;
+	margin-top: 2px;
+}
+
+.titulo-centralizado2 {
+	text-align: center;
+	font-size: 30px;
+	margin-top: -40px;
+	color: darkred;
+	text-transform: uppercase;
+}
+
+.imagembeneficios {
+	margin-top: 30px;
+	width: 50%;
+	margin-left: 450px;
+}
+
+.itens2 {
+	margin-top: 35px;
+	text-align: center;
+	text-transform: uppercase;
+	color: black;
+}
+
+footer {
+	text-align: center;
+	background:  url("bg.jpg");
+	padding:  40px 0;
+}
+
+footer {
+
+}
+
+.copyright {
+	color:  #FFFFFF;
+	font-size:  13px;
+	margin-top: 20px;
+}
