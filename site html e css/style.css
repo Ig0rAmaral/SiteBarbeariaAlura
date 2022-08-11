@@ -86,7 +86,7 @@ em strong {
 .itens{
 	font-style: unset;
 	font-size: 25px;
-	display: inline;
+	display: inline-block;
 	margin: 10px;
 }
 
